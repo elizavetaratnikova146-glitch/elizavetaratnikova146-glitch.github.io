@@ -284,7 +284,7 @@ width:280px;
 
 <section class="hero">
 
-<img src="https://vk.ru/photo-236806040_457239030">
+<img src="https://photo-236806040_457239030">
 
 <div class="hero-text">
 
