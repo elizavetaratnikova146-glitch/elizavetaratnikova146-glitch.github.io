@@ -284,7 +284,7 @@ width:280px;
 
 <section class="hero">
 
-<img src="photo.jpg">
+<img src="me.pdf">
 
 <div class="hero-text">
 
