@@ -284,7 +284,7 @@ width:280px;
 
 <section class="hero">
 
-<img src="me12me">
+<img src="https://i.ibb.co/fd7SB6zz/me12me.jpg">
 
 <div class="hero-text">
 
