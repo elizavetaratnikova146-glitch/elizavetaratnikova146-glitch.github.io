@@ -300,7 +300,7 @@ width:280px;
 
 </p>
 
-<a class="button" href="https://t.me/koneva_elizaveta"<a class="button" href="https://t.me/koneva_elizaveta" style="margin-bottom: 16px;">Telegram</a>
+<a class="button" href="https://t.me/koneva_elizaveta"<a class="button" href="https://t.me/koneva_elizaveta">Telegram</a>
 
 <a class="button" href="http://api.whatsapp.com/send?phone=79917494932">WhatsApp</a>
 
